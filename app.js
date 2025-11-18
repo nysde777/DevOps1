@@ -1,2 +1,2 @@
-console.log("hola mundo Devops");
-console.log("nueva funcion de login");
+console.log(hola mundo Devops);
+console.log("funcion de login simple");
